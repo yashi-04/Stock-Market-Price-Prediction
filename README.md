@@ -1,1 +1,6 @@
 # Stock-Market-Price-Prediction
+The prediction of stock value is a complex task that needs a robust algorithm background to compute the longer-term share prices. Stock prices are correlated within the nature of the market; hence it will be difficult to predict the costs. The proposed algorithm uses the market data to predict the share price using machine learning techniques like a recurrent neural network named Long Short Term Memory, in that process weights are corrected for each data point using stochastic gradient descent. This system will provide accurate outcomes in comparison to currently available stock price predictor algorithms. The network is trained and evaluated with various sizes of input data to urge the graphical outcomes.
+
+The LSTM-based stock price prediction model developed in this project shows promising results, with high accuracy and low error rates. The model effectively captures the trends and patterns in stock prices, making it a valuable tool for financial forecasting.
+
+The LSTM model was able to capture the trends and patterns in the stock prices effectively, as evidenced by the high R-squared value and relatively low error metrics. The moving average plots also illustrate that the model's predictions align well with the actual closing prices, reinforcing the model's reliability.
